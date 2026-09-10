@@ -1,25 +1,79 @@
-# Hi, I'm Shahid Wani 👋
+<div align="center">
 
-I build practical tools at the intersection of **network security, observability, and applied AI**.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF69B4,50:EF93C4,100:F48FB1&text=Hey%20there%2C%20I%27m%20Shahid%20Wani%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=34&animation=fadeIn" width="100%" alt="banner" />
 
-- 🔭 Currently building [FlowSight](https://github.com/Shahid-Wani/flowsight), an open-source NetFlow/sFlow/IPFIX analyzer
-- 🛡️ Interested in network telemetry, threat hunting, anomaly detection, and privacy-conscious AI
-- 🧪 I value reproducible experiments, tested implementations, and tools that are useful in production
-- 📫 Find me on [GitHub](https://github.com/Shahid-Wani)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EF93C4&center=true&vCenter=true&random=false&width=700&height=70&lines=Network+Security+%C3%97+Observability+%C3%97+Applied+AI;NetFlow+%C2%B7+sFlow+%C2%B7+IPFIX+tooling;Detection+Engineering+%26+Threat+Hunting;Turning+packets+into+security+signals+%F0%9F%90%9D" alt="Typing SVG" />
+</a>
 
-## Featured projects
+<a href="https://github.com/Shahid-Wani?tab=followers"><img src="https://img.shields.io/github/followers/Shahid-Wani?label=Followers&style=for-the-badge&color=EF93C4&labelColor=F48FB1" alt="Followers" /></a>
+<a href="https://github.com/Shahid-Wani?tab=repositories"><img src="https://img.shields.io/github/stars/Shahid-Wani?label=Stars&style=for-the-badge&color=FF69B4&labelColor=F48FB1" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=Shahid-Wani&label=Profile+Views&color=EF93C4&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+## 💗 About Me
+
+<table>
+  <tr>
+    <td width="62%">
+
+- 🔭 Currently building **[FlowSight](https://github.com/Shahid-Wani/flowsight)** — an open-source NetFlow / sFlow / IPFIX analyzer for network visibility & threat hunting
+- 🍯 Detection engineering with **[honey-globe](https://github.com/Shahid-Wani/honey-globe)** — real honeypot attack data → enrichment → detection rules → 3D globe
+- 🌱 Interested in **network telemetry, threat hunting, anomaly detection & privacy-conscious AI**
+- 💬 Ask me about **Python, network flows, and turning raw packets into actionable signals**
+- 🎯 I value **reproducible experiments, tested implementations, and tools that work in production**
+- 📫 How to reach me → the **Connect** section below
+
+</td>
+<td width="38%" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxT64q/giphy.gif" width="100%" alt="Coding GIF" />
+</td>
+</tr>
+</table>
+
+## ✨ Featured Projects
 
 | Project | What it does |
 | --- | --- |
-| [FlowSight](https://github.com/Shahid-Wani/flowsight) | Network-flow collection, enrichment, anomaly detection, alerting, and dashboarding |
-| [PyCICFlowMeter](https://github.com/Shahid-Wani/pycicflowmeter) | Scapy-based network-flow feature extraction for ML pipelines |
-| [Packet Ecosystem](https://github.com/Shahid-Wani/packet-ecosystem) | Interactive visualization of packet ecosystems and network behavior |
-| [Podcast Transcriber](https://github.com/Shahid-Wani/podcast-transcriber) | Local-first transcription and speaker-diarization workbench |
+| 🔭 **[FlowSight](https://github.com/Shahid-Wani/flowsight)** | Network-flow collection, enrichment, anomaly detection, alerting & dashboarding |
+| 🧪 **[PyCICFlowMeter](https://github.com/Shahid-Wani/pycicflowmeter)** | CICFlowMeter-compatible flow feature extractor — pcap/live traffic → 83-column CSV for ML pipelines |
+| 🍯 **[honey-globe](https://github.com/Shahid-Wani/honey-globe)** | Real honeypot attack data → enrichment → detection rules → interactive 3D globe |
 
-## What I work with
+## 💻 Tech Stack
 
-`Python` · `FastAPI` · `TypeScript` · `React` · `Docker` · `InfluxDB` · `scikit-learn` · `Network Security`
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,docker,sklearn,grafana,git,github,vscode,linux&perline=6" alt="Tech Stack" />
+  </a>
+</div>
 
-## Open-source focus
+## 📊 GitHub Streak
 
-I am focused on turning network telemetry into understandable, actionable security signals — with clear documentation and tests alongside the implementation.
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shahid-Wani&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakNumColor=F06292&sideNumsColor=F06292&currStreakLabelColor=EF93C4&sideLabelsColor=EF93C4&datesColor=F06292" alt="GitHub Streak Stats" />
+</div>
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahid-Wani/Shahid-Wani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahid-Wani/Shahid-Wani/output/github-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/Shahid-Wani/Shahid-Wani/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
+</div>
+
+*Regenerated daily by the [snake workflow](.github/workflows/snake.yml), powered by [Platane/snk](https://github.com/Platane/snk)*
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F48FB1)](https://www.linkedin.com/in/shahid-farooq-029835201/)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF69B4,50:EF93C4,100:F8BBD0&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%92%97&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
+</div>

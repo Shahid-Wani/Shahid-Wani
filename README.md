@@ -14,23 +14,12 @@
 
 ## 🛡️ About Me
 
-<table>
-  <tr>
-    <td width="62%">
-
 - 🔭 Currently building **[FlowSight](https://github.com/Shahid-Wani/flowsight)** — an open-source NetFlow / sFlow / IPFIX analyzer for network visibility & threat hunting
 - 🍯 Detection engineering with **[honey-globe](https://github.com/Shahid-Wani/honey-globe)** — real honeypot attack data → enrichment → detection rules → 3D globe
 - 🌱 Interested in **network telemetry, threat hunting, anomaly detection & privacy-conscious AI**
 - 💬 Ask me about **Python, network flows, and turning raw packets into actionable signals**
 - 🎯 I value **reproducible experiments, tested implementations, and tools that work in production**
 - 📫 How to reach me → the **Connect** section below
-
-</td>
-<td width="38%" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0D1117,100:052E22&text=%24%20whoami&fontSize=30&fontColor=00E676&desc=network%20security%20%C2%B7%20observability%20%C2%B7%20applied%20AI&descSize=15&descColor=34D399&animation=fadeIn" width="100%" alt="Terminal card" />
-</td>
-</tr>
-</table>
 
 ## 🚀 Featured Projects
 

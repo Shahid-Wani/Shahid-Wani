@@ -40,7 +40,11 @@
 ## 📊 GitHub Streak
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Shahid-Wani&hide_border=true&background=00000000&ring=00E676&fire=34D399&currStreakNumColor=00E676&sideNumsColor=00E676&currStreakLabelColor=00E676&sideLabelsColor=00E676&datesColor=34D399" alt="GitHub Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Shahid-Wani&hide_border=true&background=0D1117&ring=00E676&fire=34D399&currStreakNumColor=FFFFFF&sideNumsColor=00E676&currStreakLabelColor=00E676&sideLabelsColor=00E676&datesColor=34D399" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Shahid-Wani&hide_border=true&background=FFFFFF&ring=047857&fire=059669&currStreakNumColor=1F2937&sideNumsColor=047857&currStreakLabelColor=047857&sideLabelsColor=047857&datesColor=059669" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=Shahid-Wani&hide_border=true&background=0D1117&ring=00E676&fire=34D399&currStreakNumColor=FFFFFF&sideNumsColor=00E676&currStreakLabelColor=00E676&sideLabelsColor=00E676&datesColor=34D399" alt="GitHub Streak Stats" />
+  </picture>
 </div>
 
 ## 🐍 Watch the Snake Eat My Contributions
